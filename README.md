@@ -1,2 +1,2 @@
 # Weather-Website
-Weather detection website is to provide users with up-to-date and accurate information about weather conditions in a specific location.
+Weather website is to provide users with weather conditions in a specific location.
