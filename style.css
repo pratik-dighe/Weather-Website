@@ -10,9 +10,9 @@ body {
     margin: 0;
     padding: 0;
     background-image: url('/image.jpg');
-    background-size: cover;      /* Ensures the image covers the entire body */
-    background-position: center; /* Centers the image */
-    background-repeat: no-repeat; /* Prevents image repetition */
+    background-size: cover;      
+    background-position: center;
+    background-repeat: no-repeat; 
 }
 
 .container {
